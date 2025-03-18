@@ -12,6 +12,8 @@ Run from MainActivity. Upon app load, the list should automatically show.
 
 ## Screen recording
 
+https://github.com/user-attachments/assets/eda09688-817f-4a2b-9193-9585881dbe44
+
 
 
 
