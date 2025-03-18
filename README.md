@@ -8,7 +8,7 @@ It also filters out any items where "name" is blank or null.
 Finally, it Display this list of items to the user, grouped by "listId"
 
 ## How to run
-Run from MainActivity. Upon app load, the list should automatically show.
+Run from app/src/main/java/com/example/fetchrewardscodingexercise/MainActivity.kt. Upon app load, the list should automatically show.
 
 ## Screen recording
 
